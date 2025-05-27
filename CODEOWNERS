@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @MVDB1984
+/src/backend/database.py      @MVDB1984
+/src/backend/routers/auth.py  @MVDB1984
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @MVDB1984
